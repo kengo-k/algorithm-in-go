@@ -31,3 +31,13 @@ func (g *Graph) dfsUtil(v int, visited map[int]bool, result *[]int) {
 		}
 	}
 }
+
+func (g *Graph) PathExists(src, dest int) bool {
+	visitedNodes := g.DFS(src)
+	for _, node := range visitedNodes {
+		if node == dest {
+			return true
+		}
+	}
+	return false
+}
