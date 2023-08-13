@@ -12,7 +12,7 @@ func TestBubbleSort(t *testing.T) {
 	}{
 		{[]int{64, 34, 25, 12, 22, 11, 90}, []int{11, 12, 22, 25, 34, 64, 90}},
 		{[]int{5, 1, 4, 2, 8}, []int{1, 2, 4, 5, 8}},
-		{[]int{}, []int{}}, // 空のリスト
+		{[]int{}, []int{}},
 	}
 
 	for _, tt := range tests {
