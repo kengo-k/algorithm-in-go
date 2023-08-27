@@ -51,7 +51,7 @@
 ## Data Structures:
 
 - Stack
-- Queue
+- [x] Queue
 - Linked List
 - Tree
 - Heap
