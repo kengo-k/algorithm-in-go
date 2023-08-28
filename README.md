@@ -2,7 +2,7 @@
 
 - [x] Bubble Sort
 - [x] Insertion Sort
-- Selection Sort
+- [x] Selection Sort
 - [x] Merge Sort
 - [x] Quick Sort
 - Heap Sort
