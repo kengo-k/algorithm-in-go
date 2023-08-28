@@ -1,7 +1,7 @@
 ## Sorting Algorithms:
 
 - [x] Bubble Sort
-- Insertion Sort
+- [x] Insertion Sort
 - Selection Sort
 - [x] Merge Sort
 - [x] Quick Sort
