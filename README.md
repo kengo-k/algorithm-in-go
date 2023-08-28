@@ -4,7 +4,7 @@
 - Insertion Sort
 - Selection Sort
 - [x] Merge Sort
-- Quick Sort
+- [x] Quick Sort
 - Heap Sort
 
 ## Search Algorithms:
