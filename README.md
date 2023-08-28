@@ -6,6 +6,8 @@
 - [x] Merge Sort
 - [x] Quick Sort
 - Heap Sort
+- Intro Sort
+- Tim Sort
 
 ## Search Algorithms:
 
