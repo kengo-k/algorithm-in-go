@@ -16,7 +16,7 @@
 
 ## Graph Algorithms:
 
-- Depth First Search (DFS)
+- [x] Depth First Search (DFS)
 - Breadth First Search (BFS)
 - Kruskal's Algorithm
 - Prim's Algorithm
@@ -35,11 +35,6 @@
 - Knapsack Problem
 - Longest Common Subsequence (LCS)
 - Fibonacci Sequence
-
-## Divide and Conquer:
-
-- Merge Sort and Quick Sort (as they use divide and conquer)
-- Binary Search
 
 ## Greedy Algorithms:
 
