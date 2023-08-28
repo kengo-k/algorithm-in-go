@@ -1,4 +1,4 @@
-module helloworld
+module algorithm_in_go
 
 go 1.19
 
